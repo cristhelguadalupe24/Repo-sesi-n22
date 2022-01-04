@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(155, 24, 160);
+}
+body{
+    background: url(https://i.pinimg.com/originals/fa/48/17/fa4817f79a297c25aca7c3f87c35e9f5.png);
+    background-size: 100%;
+}
+
+h2{
+    font-family: 'Comfortaa', cursive;
+    color: rgb(155, 24, 160);
+    height: 30px;
+}
+
+p{
+    color: rgb(54, 117, 168);
+}
+
+.conteiner{
+    padding-right: 450px;
+    padding-left: 300px;
+}
